@@ -1,3 +1,3 @@
 # Responsive-Portfolio
 
-https://joshvanoverbeke.github.io/Responsive-Portfolio/
+https://joshvanoverbeke.github.io/Joshua-VanOverbeke-Portfolio/
